@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Tuhin ",
+      "username": "tuhins",
+      "email": "tuhins@gmail.com",
+      "phone": "45561",
+      "id": 5
+    },
+    {
+      "name": "dipak sarkar",
+      "username": "dipaksarkar",
+      "email": "dsarkar@gmail.com",
+      "phone": "7896545",
+      "id": 6
+    },
+    {
+      "name": "rthujju",
+      "username": "thryh",
+      "email": "rrtyysds@gmail.com",
+      "phone": "5677458317",
+      "id": 7
+    },
+    {
+      "name": "kunal",
+      "username": "khamarukunal",
+      "email": "kk@gmail.com",
+      "phone": "5696358963",
+      "id": 9
+    }
+  ]
+}
